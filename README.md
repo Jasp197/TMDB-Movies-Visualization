@@ -13,3 +13,17 @@ This project explores the TMDB movie dataset through static and interactive visu
 - **Interactive Dashboard**: Explore the dataset interactively with tools like filters, sliders, and dynamic plots.
 
 - **Deployment**: The dashboard is deployed on the Google Cloud Platform for online access at this link - https://dashapp-oxacza7taa-nn.a.run.app/.
+
+## Dashboard
+
+<img src="public/assets/Dashboard.png" width="900">
+
+## Plots
+
+- **Story Telling Plot**:
+
+<img src="public/assets/storytellingGraph.png" width="900">
+
+- **Distribution Pie Chart**:
+
+<img src="public/assets/PieChart.png" width="900">
