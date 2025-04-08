@@ -16,14 +16,14 @@ This project explores the TMDB movie dataset through static and interactive visu
 
 ## Dashboard
 
-<img src="public/assets/Dashboard.png" width="900">
+<img src="assets/Dashboard.png" width="900">
 
 ## Plots
 
 - **Story Telling Plot**:
 
-<img src="public/assets/storytellingGraph.png" width="900">
+<img src="assets/storytellingGraph.png" width="900">
 
 - **Distribution Pie Chart**:
 
-<img src="public/assets/PieChart.png" width="900">
+<img src="assets/PieChart.png" width="900">
