@@ -22,8 +22,8 @@ This project explores the TMDB movie dataset through static and interactive visu
 
 - **Story Telling Plot**:
 
-<img src="assets/storytellingGraph.png" width="900">
+<img src="assets/storytellingGraph.png" width="750">
 
 - **Distribution Pie Chart**:
 
-<img src="assets/PieChart.png" width="900">
+<img src="assets/PieChart.png" width="600">
